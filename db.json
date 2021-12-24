@@ -1,6 +1,6 @@
 {
 
-    "Lchart" : [
+    "Lchart24" : [
     {
     "time" : "00:00",
     "amount" : "2000"
@@ -97,6 +97,36 @@
     "time" : "23:00",
     "amount" : "3590"
     }
-    ]
+    ],
+    "Lchart7D" : [
+        {
+        "time" : "Mon",
+        "amount" : "2000"
+        },
+        {
+        "time" : "Tue",
+        "amount" : "2400"
+        },
+        {
+        "time" : "Wed",
+        "amount" : "1200"
+        },
+        {
+        "time" : "Thu",
+        "amount" : "4000"
+        },
+        {
+        "time" : "Fri",
+        "amount" : "6000"
+        },
+        {
+        "time" : "Sat",
+        "amount" : "900"
+        },
+        {
+        "time" : "Sun",
+        "amount" : "3000"
+        }
+        ]
     }
     
