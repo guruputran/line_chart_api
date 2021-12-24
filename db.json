@@ -1,132 +1,180 @@
 {
-
-    "Lchart24" : [
-    {
-    "time" : "00:00",
-    "amount" : "2000"
-    },
-    {
-    "time" : "01:00",
-    "amount" : "2400"
-    },
-    {
-    "time" : "02:00",
-    "amount" : "1200"
-    },
-    {
-    "time" : "03:00",
-    "amount" : "4000"
-    },
-    {
-    "time" : "04:00",
-    "amount" : "6000"
-    },
-    {
-    "time" : "05:00",
-    "amount" : "900"
-    },
-    {
-    "time" : "06:00",
-    "amount" : "3000"
-    },
-    {
-    "time" : "07:00",
-    "amount" : "4500"
-    },
-    {
-    "time" : "08:00",
-    "amount" : "3200"
-    },
-    {
-    "time" : "09:00",
-    "amount" : "1800"
-    },
-    {
-    "time" : "10:00",
-    "amount" : "3800"
-    },
-    {
-    "time" : "11:00",
-    "amount" : "4000"
-    },
-    {
-    "time" : "12:00",
-    "amount" : "3400"
-    },
-    {
-    "time" : "13:00",
-    "amount" : "2800"
-    },
-    {
-    "time" : "14:00",
-    "amount" : "3100"
-    },
-    {
-    "time" : "15:00",
-    "amount" : "2400"
-    },
-    {
-    "time" : "16:00",
-    "amount" : "3100"
-    },
-    {
-    "time" : "17:00",
-    "amount" : "4200"
-    },
-    {
-    "time" : "18:00",
-    "amount" : "6300"
-    },
-    {
-    "time" : "19:00",
-    "amount" : "8000"
-    },
-    {
-    "time" : "20:00",
-    "amount" : "800"
-    },
-    {
-    "time" : "21:00",
-    "amount" : "4550"
-    },
-    {
-    "time" : "22:00",
-    "amount" : "3300"
-    },
-    {
-    "time" : "23:00",
-    "amount" : "3590"
-    }
+    "Lchart24": [
+      {
+        "time": "00:00",
+        "amount": 2000
+      },
+      {
+        "time": "01:00",
+        "amount": 2400
+      },
+      {
+        "time": "02:00",
+        "amount": 1200
+      },
+      {
+        "time": "03:00",
+        "amount": 4000
+      },
+      {
+        "time": "04:00",
+        "amount": 6000
+      },
+      {
+        "time": "05:00",
+        "amount": 900
+      },
+      {
+        "time": "06:00",
+        "amount": 3000
+      },
+      {
+        "time": "07:00",
+        "amount": 4500
+      },
+      {
+        "time": "08:00",
+        "amount": 3200
+      },
+      {
+        "time": "09:00",
+        "amount": 1800
+      },
+      {
+        "time": "10:00",
+        "amount": 3800
+      },
+      {
+        "time": "11:00",
+        "amount": 4000
+      },
+      {
+        "time": "12:00",
+        "amount": 3400
+      },
+      {
+        "time": "13:00",
+        "amount": 2800
+      },
+      {
+        "time": "14:00",
+        "amount": 3100
+      },
+      {
+        "time": "15:00",
+        "amount": 2400
+      },
+      {
+        "time": "16:00",
+        "amount": 3100
+      },
+      {
+        "time": "17:00",
+        "amount": 4200
+      },
+      {
+        "time": "18:00",
+        "amount": 6300
+      },
+      {
+        "time": "19:00",
+        "amount": 8000
+      },
+      {
+        "time": "20:00",
+        "amount": 800
+      },
+      {
+        "time": "21:00",
+        "amount": 4550
+      },
+      {
+        "time": "22:00",
+        "amount": 3300
+      },
+      {
+        "time": "23:00",
+        "amount": 3590
+      }
     ],
-    "Lchart7D" : [
-        {
-        "time" : "Mon",
-        "amount" : "2000"
-        },
-        {
-        "time" : "Tue",
-        "amount" : "2400"
-        },
-        {
-        "time" : "Wed",
-        "amount" : "1200"
-        },
-        {
-        "time" : "Thu",
-        "amount" : "4000"
-        },
-        {
-        "time" : "Fri",
-        "amount" : "6000"
-        },
-        {
-        "time" : "Sat",
-        "amount" : "900"
-        },
-        {
-        "time" : "Sun",
-        "amount" : "3000"
-        }
-        ]
-    }
-    
+    "Lchart7D": [
+      {
+        "time": "Mon",
+        "amount": 2000
+      },
+      {
+        "time": "Tue",
+        "amount": 2400
+      },
+      {
+        "time": "Wed",
+        "amount": 1200
+      },
+      {
+        "time": "Thu",
+        "amount": 4000
+      },
+      {
+        "time": "Fri",
+        "amount": 6000
+      },
+      {
+        "time": "Sat",
+        "amount": 900
+      },
+      {
+        "time": "Sun",
+        "amount": 3000
+      }
+    ],
+    "LchartM": [
+      {
+        "time": "Jan",
+        "amount": 2000
+      },
+      {
+        "time": "Feb",
+        "amount": 2400
+      },
+      {
+        "time": "Mar",
+        "amount": 1200
+      },
+      {
+        "time": "Apr",
+        "amount": 4000
+      },
+      {
+        "time": "May",
+        "amount": 6000
+      },
+      {
+        "time": "June",
+        "amount": 900
+      },
+      {
+        "time": "July",
+        "amount": 3000
+      },
+      {
+        "time": "Aug",
+        "amount": 900
+      },
+      {
+        "time": "Sept",
+        "amount": 900
+      },
+      {
+        "time": "Oct",
+        "amount": 900
+      },
+      {
+        "time": "Nov",
+        "amount": 900
+      },
+      {
+        "time": "Dec",
+        "amount": 900
+      }
+    ]
+  }
