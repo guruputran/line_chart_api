@@ -179,6 +179,152 @@
             "amount": 2800
           }
         ],
+        "Lchart90": [
+          {
+            "time": "Jan1",
+            "amount": 500
+          },
+          {
+            "time": "Feb1",
+            "amount": 400
+          },
+          {
+            "time": "Mar1",
+            "amount": 2200
+          },
+          {
+            "time": "Apr1",
+            "amount": 1100
+          },
+          {
+            "time": "May1",
+            "amount": 800
+          },
+          {
+            "time": "June1",
+            "amount": 290
+          },
+          {
+            "time": "July1",
+            "amount": 7100
+          },
+          {
+            "time": "Aug1",
+            "amount": 5600
+          },
+          {
+            "time": "Sept1",
+            "amount": 2100
+          },
+          {
+            "time": "Oct1",
+            "amount": 3550
+          },
+          {
+            "time": "Nov1",
+            "amount": 5100
+          },
+          {
+            "time": "Dec1",
+            "amount": 200
+          },
+          {
+            "time": "Jan2",
+            "amount": 1500
+          },
+          {
+            "time": "Feb2",
+            "amount": 2400
+          },
+          {
+            "time": "Mar2",
+            "amount": 3300
+          },
+          {
+            "time": "Apr2",
+            "amount": 2100
+          },
+          {
+            "time": "May2",
+            "amount": 8800
+          },
+          {
+            "time": "June2",
+            "amount": 2900
+          },
+          {
+            "time": "July2",
+            "amount": 6100
+          },
+          {
+            "time": "Aug2",
+            "amount": 3600
+          },
+          {
+            "time": "Sept2",
+            "amount": 6100
+          },
+          {
+            "time": "Oct2",
+            "amount": 5550
+          },
+          {
+            "time": "Nov2",
+            "amount": 100
+          },
+          {
+            "time": "Dec2",
+            "amount": 2200
+          },
+          {
+            "time": "Jan3",
+            "amount": 5500
+          },
+          {
+            "time": "Feb3",
+            "amount": 400
+          },
+          {
+            "time": "Mar3",
+            "amount": 300
+          },
+          {
+            "time": "Apr3",
+            "amount": 2900
+          },
+          {
+            "time": "May3",
+            "amount": 8500
+          },
+          {
+            "time": "June3",
+            "amount": 1900
+          },
+          {
+            "time": "July3",
+            "amount": 3100
+          },
+          {
+            "time": "Aug3",
+            "amount": 5000
+          },
+          {
+            "time": "Sept3",
+            "amount": 2100
+          },
+          {
+            "time": "Oct3",
+            "amount": 5050
+          },
+          {
+            "time": "Nov3",
+            "amount": 2100
+          },
+          {
+            "time": "Dec3",
+            "amount": 4200
+          }
+        ],
         "LchartY": [
           {
             "time": 2011,
